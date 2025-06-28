@@ -93,7 +93,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepika-Prabhakaran&radius=16&theme=dracula&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
-##### Hi there 👋
 
 <!--
 **Deepika-Prabhakaran/Deepika-Prabhakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
