@@ -4,15 +4,21 @@
 
 <h2 align="left">$ whoami :</h2>
 
-###
 
-<p align="left">Currently pursuing my degree in Computer Science and Engineering.<br><br>I'm a passionate frontend developer and an ever-curious problem solver who finds joy in building tech that makes a difference.<br><br>These days, I’m diving deep into the world of full-stack development blending beautiful interfaces with powerful backend logic.<br><br>Whether it’s designing intuitive UIs, crafting seamless APIs, or building real-time data-driven systems, I love turning bold ideas into impactful digital experiences.</p>
+- Currently pursuing my degree in **Computer Science and Engineering**
+- Passionate **frontend developer** and curious **problem solver** who enjoys building tech that creates real impact
+- Currently exploring **full-stack development**, blending beautiful interfaces with powerful backend logic
+- Skilled in crafting intuitive UIs, seamless APIs, and real-time data-driven systems
+- Dedicated to turning bold ideas into **meaningful digital experiences**
 
 ###
+---
 
 <h3 align="left">Things I Know and Love to Break !</h3>
 
+
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
@@ -61,9 +67,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/deepika-prabhakaran54/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:deepikaprabhakaran45@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Badge" />
+  </a>
 </div>
+
 
 ###
 
